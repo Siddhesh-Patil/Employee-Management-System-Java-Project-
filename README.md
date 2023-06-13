@@ -1,4 +1,6 @@
 # Employee Management System in Java
+
+This is system is built using Java swing framework and MySql database is used to store employee details.
  
  ![image](https://github.com/Siddhesh-Patil/EMP/assets/83155673/4646a339-52a1-4f70-a07e-a9d63a315332)
 
